@@ -1,0 +1,53 @@
+     [16:20:46] --- Started Log ---
+     [16:20:46] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [16:20:46] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [16:20:46] Creating new server instance...
+     [16:20:46] Reading server config...
+     [16:20:46] Starting server...
+Info [16:20:46] Compatible clients: 1.8.x-1.14.4
+Warn [16:20:46] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [16:20:46] Loaded 789 crafting recipes
+     [16:20:46] Loaded 1.12.2 380 recipe book
+Warn [16:20:46] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [16:20:46] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [16:20:46] Loaded 67 furnace recipes and 66 fuels
+     [16:20:46] Loaded 49 brewing recipes
+Warn [16:20:46] Failed to load scoreboard from "world/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [16:20:46] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [16:20:46] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [16:20:46] Failed to load scoreboard from "world_nether/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [16:20:46] Failed to load scoreboard from "world_the_end/data/scoreboard.dat": basic_ios::clear: iostream error
+     [16:20:46] -- Loading Plugins --
+     [16:20:46] [Core] Initialised!
+     [16:20:46] [ChatLog] Initialized ChatLog v.3
+     [16:20:46] -- Loaded 2 Plugins --
+     [16:20:47] Preparing spawn (world): 13.00% (52/400; 49.01 chunks / sec)
+     [16:20:48] Preparing spawn (world): 31.00% (124/400; 71.29 chunks / sec)
+     [16:20:49] Preparing spawn (world): 59.00% (236/400; 111.44 chunks / sec)
+     [16:20:50] Preparing spawn (world): 93.25% (373/400; 136.73 chunks / sec)
+Warn [16:20:51] World "world": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 61, 0}
+     [16:20:52] Preparing spawn (world_nether): 10.50% (42/400; 41.96 chunks / sec)
+     [16:20:53] Preparing spawn (world_nether): 28.25% (113/400; 64.66 chunks / sec)
+     [16:20:54] Preparing spawn (world_nether): 57.25% (229/400; 71.25 chunks / sec)
+     [16:20:56] Preparing spawn (world_the_end): 72.00% (288/400; 286.00 chunks / sec)
+Warn [16:20:56] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 74, 0}
+     [16:20:56] Startup complete, took 10508ms!
+     [16:21:14] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [16:21:14] Player TheOtter101 has joined the game
+Warn [16:21:14] AddEntity: Entity at 0x7fc18c01a6d0 (cPlayer, ID 202) spawning in a non-existent chunk.
+Warn [16:21:17] MoveEntityToNewChunk: Entity at 0x7fc1b4d08000 (cCow, ID 225) moving to a non-existent chunk.
+Info [16:21:41] Player TheOtter101 has left the game
+     [16:21:46] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [16:21:46] Player TheOtter101 has joined the game
+Info [16:22:01] Player TheOtter101 has left the game
+     [16:22:08] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [16:22:08] Player TheOtter101 has joined the game
+Warn [16:22:08] AddEntity: Entity at 0x7fc18c0c9590 (cPlayer, ID 292) spawning in a non-existent chunk.
+Info [16:22:22] Player TheOtter101 has left the game
+     [16:23:20] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [16:23:20] Player TheOtter101 has joined the game
+Warn [16:23:20] AddEntity: Entity at 0x7fc18c0107c0 (cPlayer, ID 319) spawning in a non-existent chunk.
+Info [16:23:24] Player TheOtter101 has left the game
+     [16:38:02] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [16:38:02] Player TheOtter101 has joined the game
+Warn [16:38:02] AddEntity: Entity at 0x7fc18c071e50 (cPlayer, ID 337) spawning in a non-existent chunk.

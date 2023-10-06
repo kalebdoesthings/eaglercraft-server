@@ -1,0 +1,28 @@
+     [08:27:48] --- Started Log ---
+     [08:27:48] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [08:27:48] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [08:27:48] Creating new server instance...
+     [08:27:48] Reading server config...
+     [08:27:48] Starting server...
+Info [08:27:48] Compatible clients: 1.8.x-1.14.4
+Warn [08:27:48] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [08:27:48] Loaded 789 crafting recipes
+     [08:27:48] Loaded 1.12.2 380 recipe book
+Warn [08:27:48] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [08:27:48] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [08:27:48] Loaded 67 furnace recipes and 66 fuels
+     [08:27:48] Loaded 49 brewing recipes
+Warn [08:27:48] Failed to load scoreboard from "world/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [08:27:48] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [08:27:48] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [08:27:48] Failed to load scoreboard from "world_nether/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [08:27:48] Failed to load scoreboard from "world_the_end/data/scoreboard.dat": basic_ios::clear: iostream error
+     [08:27:48] -- Loading Plugins --
+     [08:27:48] [Core] Initialised!
+     [08:27:48] [ChatLog] Initialized ChatLog v.3
+     [08:27:48] -- Loaded 2 Plugins --
+     [08:27:49] Preparing spawn (world): 36.50% (146/400; 139.31 chunks / sec)
+Warn [08:27:50] World "world": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 61, 0}
+     [08:27:51] Preparing spawn (world_nether): 29.50% (118/400; 109.56 chunks / sec)
+     [08:27:52] Preparing spawn (world_nether): 64.50% (258/400; 139.30 chunks / sec)
+Warn [08:27:54] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 74, 0}

@@ -1,0 +1,135 @@
+     [14:17:43] --- Started Log ---
+     [14:17:43] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [14:17:43] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [14:17:43] Creating new server instance...
+     [14:17:43] Reading server config...
+     [14:17:44] Starting server...
+Info [14:17:44] Compatible clients: 1.8.x-1.14.4
+Warn [14:17:44] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [14:17:44] Loaded 789 crafting recipes
+     [14:17:44] Loaded 1.12.2 380 recipe book
+Warn [14:17:44] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [14:17:44] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [14:17:44] Loaded 67 furnace recipes and 66 fuels
+     [14:17:44] Loaded 49 brewing recipes
+Warn [14:17:44] Failed to load scoreboard from "world/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [14:17:44] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [14:17:44] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [14:17:44] Failed to load scoreboard from "world_nether/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [14:17:44] Failed to load scoreboard from "world_the_end/data/scoreboard.dat": basic_ios::clear: iostream error
+     [14:17:44] -- Loading Plugins --
+     [14:17:44] [Core] Initialised!
+     [14:17:44] [ChatLog] Initialized ChatLog v.3
+     [14:17:44] -- Loaded 2 Plugins --
+     [14:17:46] Preparing spawn (world): 4.50% (18/400; 17.75 chunks / sec)
+     [14:17:47] Preparing spawn (world): 19.00% (76/400; 53.80 chunks / sec)
+     [14:17:48] Preparing spawn (world): 44.00% (176/400; 98.52 chunks / sec)
+     [14:17:49] Preparing spawn (world): 60.25% (241/400; 47.90 chunks / sec)
+Warn [14:17:50] World "world": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 61, 0}
+     [14:17:51] Preparing spawn (world_nether): 4.75% (19/400; 18.96 chunks / sec)
+     [14:17:52] Preparing spawn (world_nether): 23.25% (93/400; 67.21 chunks / sec)
+     [14:17:53] Preparing spawn (world_nether): 47.75% (191/400; 97.22 chunks / sec)
+     [14:17:54] Preparing spawn (world_nether): 80.25% (321/400; 108.24 chunks / sec)
+Warn [14:17:56] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 74, 0}
+     [14:17:56] Startup complete, took 12180ms!
+     [14:19:01] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [14:19:01] Player "TheOtter101" (a025da4cf31d36e194138963fc37927c) save or statistics file not found, resetting to defaults
+Info [14:19:01] Player TheOtter101 has joined the game
+Warn [14:19:01] AddEntity: Entity at 0x7fdd4c024320 (cPlayer, ID 15) spawning in a non-existent chunk.
+Info [14:19:05] [ChatLog] [TheOtter101]: t
+     [14:19:40] Player TheOtter101 is executing command "/pluginapi" in world "world" at world age 2291.
+Info [14:19:40] Player TheOtter101 issued an unknown command: "/pluginapi"
+Info [14:26:32] Player TheOtter101 has left the game
+     [14:26:36] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [14:26:36] Player TheOtter101 has joined the game
+Info [14:30:41] [ChatLog] [TheOtter101]: t
+     [14:30:48] Player TheOtter101 is executing command "/pluginapiversion" in world "world" at world age 15587.
+Info [14:30:48] Player TheOtter101 issued an unknown command: "/pluginapiversion"
+     [14:30:51] Player TheOtter101 is executing command "/plugin" in world "world" at world age 15645.
+Info [14:30:51] Player TheOtter101 issued an unknown command: "/plugin"
+Info [14:41:33] [ChatLog] [TheOtter101]: ☠
+     [14:42:45] Player TheOtter101 is executing command "/pluginapi version" in world "world" at world age 29803.
+Info [14:42:45] Player TheOtter101 issued an unknown command: "/pluginapi version"
+Info [14:46:25] Player TheOtter101 has left the game
+     [14:48:43] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [14:48:43] Player TheOtter101 has joined the game
+Warn [14:48:43] AddEntity: Entity at 0x7fdd4c136600 (cPlayer, ID 208) spawning in a non-existent chunk.
+Info [14:55:13] Player TheOtter101 has left the game
+     [15:18:33] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:18:33] Player TheOtter101 has joined the game
+Warn [15:18:33] AddEntity: Entity at 0x7fdd4c074e30 (cPlayer, ID 218) spawning in a non-existent chunk.
+Info [15:18:39] [ChatLog] [TheOtter101]: test
+Info [15:18:48] [ChatLog] [TheOtter101]: bruh moment
+     [15:19:01] Player TheOtter101 is executing command "/j" in world "world" at world age 73103.
+Info [15:19:01] Player TheOtter101 issued an unknown command: "/j"
+     [15:19:04] Player TheOtter101 is executing command "/j" in world "world" at world age 73168.
+Info [15:19:04] Player TheOtter101 issued an unknown command: "/j"
+     [15:19:07] Player TheOtter101 is executing command "/fjalk;f" in world "world" at world age 73216.
+Info [15:19:07] Player TheOtter101 issued an unknown command: "/fjalk;f"
+Info [15:19:08] [ChatLog] [TheOtter101]: u
+     [15:20:12] Player TheOtter101 is executing command "/help" in world "world" at world age 74513.
+Info [15:20:43] [ChatLog] [TheOtter101]: lmao
+Info [15:21:57] [ChatLog] [TheOtter101]: test
+Info [15:22:00] [ChatLog] [TheOtter101]: test
+Info [15:22:04] Player TheOtter101 has left the game
+     [15:24:20] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:24:20] Player TheOtter101 has joined the game
+Warn [15:24:20] AddEntity: Entity at 0x7fdd4c073b40 (cPlayer, ID 274) spawning in a non-existent chunk.
+Info [15:24:24] [ChatLog] [TheOtter101]: test
+Info [15:24:30] [ChatLog] [TheOtter101]: t
+Info [15:24:36] Player TheOtter101 has left the game
+     [15:26:05] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:26:05] Player TheOtter101 has joined the game
+Warn [15:26:05] AddEntity: Entity at 0x7fdd4c000f20 (cPlayer, ID 314) spawning in a non-existent chunk.
+Info [15:26:10] [ChatLog] [TheOtter101]: t
+Info [15:26:17] [ChatLog] [TheOtter101]: t
+Info [15:27:22] Player TheOtter101 has left the game
+     [15:28:32] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:28:32] Player TheOtter101 has joined the game
+Warn [15:28:32] AddEntity: Entity at 0x7fdd4c000f20 (cPlayer, ID 355) spawning in a non-existent chunk.
+Info [15:28:37] [ChatLog] [TheOtter101]: t
+Info [15:28:43] [ChatLog] [TheOtter101]: t
+Info [15:28:46] [ChatLog] [TheOtter101]: bruh mometn
+Info [15:29:38] [ChatLog] [TheOtter101]: why did i make this :(
+Info [15:29:42] [ChatLog] [TheOtter101]: j
+Info [15:29:44] [ChatLog] [TheOtter101]: jajfl;dj
+Info [15:29:47] [ChatLog] [TheOtter101]: bruh moment
+Info [15:29:51] [ChatLog] [TheOtter101]: uwu
+Info [15:29:55] [ChatLog] [TheOtter101]: nahhh
+Info [15:30:02] [ChatLog] [TheOtter101]: i hate this already
+     [15:30:18] Player TheOtter101 is executing command "/plugin" in world "world" at world age 86557.
+Info [15:30:18] Player TheOtter101 issued an unknown command: "/plugin"
+     [15:30:24] Player TheOtter101 is executing command "/help" in world "world" at world age 86671.
+     [15:30:27] Player TheOtter101 is executing command "/?" in world "world" at world age 86747.
+     [15:30:29] Player TheOtter101 is executing command "/pl" in world "world" at world age 86787.
+Info [15:30:29] Player TheOtter101 tried to execute forbidden command: "/pl"
+     [15:30:33] Player TheOtter101 is executing command "/pl" in world "world" at world age 86851.
+Info [15:30:33] Player TheOtter101 tried to execute forbidden command: "/pl"
+Info [15:30:39] [ChatLog] [TheOtter101]: info
+Info [15:30:44] Player TheOtter101 has left the game
+     [15:32:22] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:32:22] Player TheOtter101 has joined the game
+Info [15:32:26] [ChatLog] [TheOtter101]: burh
+Info [15:32:28] [ChatLog] [TheOtter101]: bruh
+Info [15:32:30] [ChatLog] [TheOtter101]: minnetonka
+Info [15:32:34] [ChatLog] [TheOtter101]: bruh moment
+Info [15:32:38] [ChatLog] [TheOtter101]: no it doesn't work now :(
+Info [15:33:00] Player TheOtter101 has left the game
+     [15:34:04] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:34:04] Player TheOtter101 has joined the game
+Warn [15:34:04] AddEntity: Entity at 0x7fdd4c1257a0 (cPlayer, ID 402) spawning in a non-existent chunk.
+Info [15:34:14] [ChatLog] [TheOtter101]: test to see if this actually works now
+Info [15:34:19] [ChatLog] [TheOtter101]: bruh moment
+Info [15:34:33] [ChatLog] [TheOtter101]: why the hell did i make this
+Info [15:36:38] [ChatLog] [TheOtter101]: i hate this so much
+Info [15:36:41] [ChatLog] [TheOtter101]: ljlaj;fj
+Info [15:37:25] Player TheOtter101 has left the game
+     [15:39:01] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:39:01] Player TheOtter101 has joined the game
+Warn [15:39:01] AddEntity: Entity at 0x7fdd4c135220 (cPlayer, ID 457) spawning in a non-existent chunk.
+Info [15:39:24] [ChatLog] [TheOtter101]: testing the uwuifier for eagler reborn kys
+Info [15:39:51] [ChatLog] [TheOtter101]: honestly why tf did i make this smh
+Info [15:40:05] Player TheOtter101 has left the game
+     [15:44:22] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:44:22] Player TheOtter101 has joined the game
+Warn [15:44:22] AddEntity: Entity at 0x7fdd4c119140 (cPlayer, ID 529) spawning in a non-existent chunk.

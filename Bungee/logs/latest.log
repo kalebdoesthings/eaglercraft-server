@@ -1,0 +1,44 @@
+[01:27:08] [main/INFO]: Using mbed TLS based native cipher.
+[01:27:08] [main/INFO]: Using zlib based native compressor.
+[01:27:08] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:a5bbdbe:543
+[01:27:08] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[01:27:08] [main/INFO]: Epoll is working, utilising it!
+[01:27:09] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[01:27:09] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[01:27:09] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[01:27:09] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[01:27:09] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[01:27:09] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[01:27:09] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:a5bbdbe:543 by WaterfallMC
+[01:27:09] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:a5bbdbe:543 by WaterfallMC
+[01:27:09] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:a5bbdbe:543 by WaterfallMC
+[01:27:09] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:a5bbdbe:543 by WaterfallMC
+[01:27:09] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:a5bbdbe:543 by WaterfallMC
+[01:27:09] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:a5bbdbe:543 by WaterfallMC
+[01:27:09] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
+[01:27:14] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
+[01:27:14] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.7 by lax1dude
+[01:27:14] [main/WARN]: Forced host server pvp is not defined
+[01:27:14] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:a5bbdbe:543 by WaterfallMC
+[01:27:14] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:a5bbdbe:543 by WaterfallMC
+[01:27:14] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:a5bbdbe:543 by WaterfallMC
+[01:27:14] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:a5bbdbe:543 by WaterfallMC
+[01:27:14] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:a5bbdbe:543 by WaterfallMC
+[01:27:14] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:a5bbdbe:543 by WaterfallMC
+[01:27:14] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[01:27:14] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[01:27:16] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[01:27:16] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.7 by lax1dude
+[01:27:16] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[01:28:24] [Netty Worker IO Thread #2/WARN] [EaglercraftXBungee]: Server icon is not a file: /home/runner/eaglercraft-server/Bungee/server-icon.png
+[01:28:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/172.31.196.1:49230]: Connected via websocket
+[01:28:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/172.31.196.1:49230]: Real address is 76.187.219.245
+[01:28:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/172.31.196.1:49230]: Origin header is null
+[01:28:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/172.31.196.1:49230]: Logged in as 'SupaFlyOldMan'
+[01:28:27] [Netty Worker IO Thread #3/INFO]: [/76.187.219.245:49230|SupaFlyOldMan] -> UpstreamBridge has connected
+[01:28:28] [Netty Worker IO Thread #3/WARN]: Event LoginEvent(cancelled=false, cancelReasonComponents=null, loginResult=null, connection=[/76.187.219.245:49230|SupaFlyOldMan] <-> InitialHandler) took 1,115ms to process!
+[01:28:28] [Netty Worker IO Thread #3/WARN]: Event PreLoginEvent(cancelled=false, cancelReasonComponents=null, connection=[/76.187.219.245:49230|SupaFlyOldMan] <-> InitialHandler) took 1,120ms to process!
+[01:28:28] [Netty Worker IO Thread #3/INFO]: [SupaFlyOldMan|/76.187.219.245:49230] <-> ServerConnector [lobby] has connected
+[01:29:08] [Netty Worker IO Thread #3/INFO]: [/76.187.219.245:49230|SupaFlyOldMan] -> UpstreamBridge has disconnected
+[01:29:08] [Netty Worker IO Thread #3/INFO]: [SupaFlyOldMan] disconnected with: Proxy lost connection to server.
+[01:29:08] [Netty Worker IO Thread #3/INFO]: [/76.187.219.245:49230|SupaFlyOldMan] <-> DownstreamBridge <-> [lobby] has disconnected
